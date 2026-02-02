@@ -1,13 +1,13 @@
-![👋 Hi, my name is Christopher Kilpatrick](https://chriskilpatrick.com/github/imgs/github-profile-header-image.jpg?v=1)
+![Hi, my name is Christopher Kilpatrick](https://chriskilpatrick.com/github/imgs/github-profile-header-image.jpg?v=1)
 
-## 🚀  I Take Companies from Idea  to Launch   
-###  Want help with that? Let's talk about what you're building, and maybe we can work together.
+## I Take Companies from Idea to Launch
+### Want help with that? Let's chat about what you're building. <a href="https://linkedin.com/in/christopherkilpatrick/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>
 
-<a href="https://github.com/kilpatrick" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a>  <a href="https://linkedin.com/in/christopherkilpatrick/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>  <a href="https://instagram.com/christopherkilpatrick/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a>
 
 I'm a full stack developer that thrives in jumping into any area of a software stack during any phase of a product development cycle and making sure the team ships. I've worked on multiple projects that went from early idea stage to successful, public release into the market. 
 
-#### Highlighted Products I've Launched: 
+#### Highlighted Products I've Launched:
+- **Known Names:** [Case Study](https://chriskilpatrick.com/case-study/known-names/) | [App Store](https://apps.apple.com/app/apple-store/id6751477026?pt=127435584&ct=github&mt=8) | [knownnames.com](https://knownnames.com)
 - **Business Alliance Financial Services:** [bafs.com](https://bafs.com)
 
 
@@ -25,8 +25,8 @@ I'm a full stack developer that thrives in jumping into any area of a software s
 
 ## Pseudorandom Bits
 
-- 🐊 As a child, I once caught an alligator with an underwater lasso!
-- 🇫🇷 J'aime parler français même si c'est très difficile pour moi.
-- 🧗 I love hiking, climbing (bouldering), kayaking, camping, and swimming.
-- 🎨 I have a background in graphic design, ui/ux, and illustrations.
-- 👏 Thanks to [Sushil Magare](https://github.com/sushilmagare10) for the inspiration behind this README format. 
+- As a child, I once caught an alligator with an underwater lasso!
+- J’apprends le français. N'hésitez pas à me saluer !
+- I love hiking, climbing (bouldering), kayaking, camping, and swimming.
+- I have a background in graphic design, ui/ux, and illustrations.
+- Thanks to [Sushil Magare](https://github.com/sushilmagare10) for the inspiration behind this README format.
