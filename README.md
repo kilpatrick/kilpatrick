@@ -7,6 +7,7 @@
 I'm a full stack developer that thrives in jumping into any area of a software stack during any phase of a product development cycle and making sure the team ships. I've worked on multiple projects that went from early idea stage to successful, public release into the market. 
 
 #### Highlighted Products I've Launched:
+- **KeyNode:** [keynode.co](https://keynode.co)
 - **Known Names:** [Case Study](https://chriskilpatrick.com/case-study/known-names/) | [App Store](https://apps.apple.com/app/apple-store/id6751477026?pt=127435584&ct=github&mt=8) | [knownnames.com](https://knownnames.com)
 - **Business Alliance Financial Services:** [bafs.com](https://bafs.com)
 
